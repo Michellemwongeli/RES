@@ -1,0 +1,211 @@
+
+body{
+  font-family: arial;
+
+}
+
+.carrier{
+  background-color: #d9d6ce;
+  width:981px;
+  margin-left: 40px;
+  margin-right: 100px;
+  margin-top: -22px;
+  padding-top: 20px;
+
+}
+
+
+.container{
+  background-color: #1d2b42;
+  max-width: 971px;
+  min-height: 15px;
+  text-align: center;
+  font-size: 10px;
+  padding: 5px;
+  color: #fff;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+
+h1{
+  color: #fff;
+}
+
+.name{
+  background-color: #203557;
+  max-width: 961px;
+  min-height: 170px;
+  text-align: center;
+  color:#f2f222; 
+  padding-top: 30px;
+  padding-left: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.about{
+  background-color: #f2ef22;
+  width: 800px;
+  height: 20px;
+  color:black; 
+  padding top: 40px;
+  padding-left: 20px;
+  margin-left: 80px;
+  margin-right: 60px;
+  padding-bottom: 50px;
+  margin-top: -9px;
+
+  
+}
+.goalsb{
+  background-color: #fff;
+  margin-left: 80px;
+ float: left;
+ margin-right: 200px;
+ width: 360px;
+ margin-top: 0.5px;
+ margin-bottom: 20px;
+
+}
+.goalsc{
+  background-color: #fff;
+  width: 350px;
+  float: right;
+  margin-left: 160px;
+  margin-right: 83px;
+  margin-top: -240px;
+  padding-left: 30px;
+  margin-bottom: 20px;
+}
+
+
+
+.main{
+  background-color: #fff;
+  width: 820px;
+  margin-left: 80px;
+  margin-right: 100px;
+
+
+}
+.image{
+  max-width: 300px;
+  max-height: 500px;
+  margin-left: 30px;
+  display: flex;
+  padding: 50px;
+  
+  
+  }
+
+.content{
+  background-color: #fff;
+  max-width: 800px;
+  min-height: 70px;
+  color:#8f8f86; 
+  padding top: -60px;
+  margin-left: 410px;
+  margin-top: -370px;
+  margin-right: 80px;
+  padding-bottom: 0px;
+  
+}
+
+
+.hobies{
+  background-color: #f2ef22;
+  width: 355px;
+  height: 70px;
+  color:black; 
+  padding top: 30px;
+  padding-left: 5px;
+  margin-left: 80px;
+  margin-right: 60px;
+  margin-top: -5px;
+  }
+
+  .content1{
+  background-color: #fff;
+  width: 240px;
+  height: 100px;
+  color:#8f8f86; 
+  padding top: -100px;
+  margin-left: 4px;
+  margin-top: -15px;
+  margin-bottom: 10px;
+  margin-right: 200px;
+   padding-bottom: 50px;
+  text-align: left;
+  }
+
+  .goals{
+  background-color: #f2ef22;
+  width: 360px;
+  height: 68px;
+  color:black; 
+  padding top: 20px;
+  padding-left: 20px;
+  margin-left: 518px;
+  margin-right: 120px;
+  margin-top: -88px;
+
+  }
+
+
+   .content2{
+  background-color: #fff;
+  width: 758px;
+  height: 120px;
+  color:#8f8f86; 
+  padding top: -130px;
+  margin-left: 100px;
+  padding-right: -60px;
+  margin-bottom: 200px;
+  margin-top: 16px;
+  margin-right: 390px;
+  padding-bottom: 100px;
+  text-align: right;
+  }
+
+  table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 83.7%;
+  margin-left: 78px;
+  margin-top: 80px;
+  background-color: #fff;
+}
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2ef22;
+  height: 60px;
+}
+
+.contacts{
+  background-color: #132440;
+  max-width: 2000px;
+  min-height: 150px;
+  text-align: left;
+  color:#fff; 
+  padding-top: 30px;
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-size: 8;
+}
+
+.conta, h1, h4, h5{
+  color: #fff;
+  margin-left: 60px;
+
+}
+.conta, h6{
+  color: #f2ef22;
+  margin-left: 60px; 
+}
